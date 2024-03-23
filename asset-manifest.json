@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7cccdc71.css",
-    "main.js": "/static/js/main.b4c1b69a.js",
+    "main.css": "/static/css/main.5bae587c.css",
+    "main.js": "/static/js/main.fb64e8c5.js",
     "static/js/453.8f6644ec.chunk.js": "/static/js/453.8f6644ec.chunk.js",
     "static/media/Syllabus for High School & Intermediate Examination - CSSE.pdf": "/static/media/Syllabus for High School & Intermediate Examination - CSSE.21481c83599954e6ab95.pdf",
     "static/media/Syllabus 10th- 10thSyllabus - CSSE.pdf": "/static/media/Syllabus 10th- 10thSyllabus - CSSE.e4bb1b2a5ef78e935f70.pdf",
@@ -10,12 +10,12 @@
     "static/media/csseLogo.png": "/static/media/csseLogo.bdb01304d55b2b2fc7ba.png",
     "static/media/background.png": "/static/media/background.c41c729ff929dda47f34.png",
     "index.html": "/index.html",
-    "main.7cccdc71.css.map": "/static/css/main.7cccdc71.css.map",
-    "main.b4c1b69a.js.map": "/static/js/main.b4c1b69a.js.map",
+    "main.5bae587c.css.map": "/static/css/main.5bae587c.css.map",
+    "main.fb64e8c5.js.map": "/static/js/main.fb64e8c5.js.map",
     "453.8f6644ec.chunk.js.map": "/static/js/453.8f6644ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cccdc71.css",
-    "static/js/main.b4c1b69a.js"
+    "static/css/main.5bae587c.css",
+    "static/js/main.fb64e8c5.js"
   ]
 }
