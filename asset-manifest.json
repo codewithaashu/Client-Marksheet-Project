@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4edb3b18.css",
-    "main.js": "/static/js/main.d49d927c.js",
+    "main.js": "/static/js/main.ea5411ae.js",
     "static/js/453.8f6644ec.chunk.js": "/static/js/453.8f6644ec.chunk.js",
     "static/media/Syllabus for High School & Intermediate Examination - CSSE.pdf": "/static/media/Syllabus for High School & Intermediate Examination - CSSE.21481c83599954e6ab95.pdf",
     "static/media/Syllabus 10th- 10thSyllabus - CSSE.pdf": "/static/media/Syllabus 10th- 10thSyllabus - CSSE.e4bb1b2a5ef78e935f70.pdf",
@@ -11,11 +11,11 @@
     "static/media/background.png": "/static/media/background.c41c729ff929dda47f34.png",
     "index.html": "/index.html",
     "main.4edb3b18.css.map": "/static/css/main.4edb3b18.css.map",
-    "main.d49d927c.js.map": "/static/js/main.d49d927c.js.map",
+    "main.ea5411ae.js.map": "/static/js/main.ea5411ae.js.map",
     "453.8f6644ec.chunk.js.map": "/static/js/453.8f6644ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4edb3b18.css",
-    "static/js/main.d49d927c.js"
+    "static/js/main.ea5411ae.js"
   ]
 }
